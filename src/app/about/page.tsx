@@ -29,10 +29,10 @@ export default async function AboutPage() {
             </p>
           </div>
           <p className="text-muted-foreground text-lg py-4">
-            Hi 👋, I'm Siddharth Mohanty A passionate Full Stack developer from
-            India 🔭 I’m currently working on MERN Chatgpt project 🌱 I’m
-            currently learning DevOps 👯 I’m looking to collaborate on Full
-            Stack projects 🤝 I’m looking for help with with MERN 💬 Ask me
+            Hi 👋 I am Siddharth Mohanty A passionate Full Stack developer from
+            India 🔭 I am currently working on MERN Chatgpt project 🌱 I am
+            currently learning DevOps 👯 I am looking to collaborate on Full
+            Stack projects 🤝 I am looking for help with with MERN 💬 Ask me
             about MERN Stack 📫 How to reach me siddharthmohanty23@gmail.com ⚡
             Fun fact I am a gamer
           </p>
